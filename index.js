@@ -15,6 +15,12 @@ function ternaryCheckCity(city){
 
 }
 
-function switchOnCharmFromTip(){
-  
+function switchOnCharmFromTip(tip){
+  switch (expression) {
+    case expression:
+      
+      break;
+    default:
+      return 'Bye.'
+  }
 }
