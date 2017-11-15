@@ -11,7 +11,7 @@ function scuberGreetingForFeet(feet){
 }
 
 function ternaryCheckCity(city){
-  return city==='NYC' ? 'No go.''OK, sounds good.';
+  return city==='NYC' ? 'No go.' : 'OK, sounds good.';
 
 }
 
